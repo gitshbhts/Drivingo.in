@@ -1,0 +1,1 @@
+<?php redirect($long_url);?>
